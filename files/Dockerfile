@@ -1,9 +1,9 @@
 # Dockerfile
 
-# Author       : KasRoudra
-# Github       : https://github.com/KasRoudra
+# Author       : Escobillionz123
+# Github       : https://github.com/Escobillionz123
 # Messenger    : https://m.me/KasRoudra
-# Email        : kasroudrakrd@gmail.com
+# Email        : davejeffrey909@gmail.com
 # Date         : 25-08-2021
 # Main Language: Python
 
@@ -15,7 +15,7 @@ FROM debian:latest
 FROM python:3
 
 # Author info
-LABEL MAINTAINER="https://github.com/KasRoudra/PyPhisher"
+LABEL MAINTAINER="https://github.com/Escobillionz123/PyPhisher"
 
 # Working directory
 WORKDIR PyPhisher/
